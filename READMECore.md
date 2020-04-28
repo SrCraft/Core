@@ -5,13 +5,13 @@ FormAPI:http://raboninco.com/PX52 Core:
 
 
 
-Permissions:
+# Permissions:                       
 hora.poner
 size.tamaño
 fly.vuelo
 
 
-Requirements
+# Requirements
 ParticleX
 NavilCompass
 ColorChat
