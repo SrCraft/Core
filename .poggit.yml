@@ -3,4 +3,4 @@ build-by-default: true
 branches:
 - master
 projects: Core
- patch
+    patch
