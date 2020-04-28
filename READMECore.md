@@ -5,7 +5,13 @@ Link:
 
 
 Permissions:
+hora.poner
+size.tamaño
+fly.vuelo
 
 
-
-Commands:
+Requirements
+ParticleX
+NavilCompass
+ColorChat
+UltraCape
